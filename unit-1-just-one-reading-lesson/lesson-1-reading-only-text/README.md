@@ -1,4 +1,4 @@
-This is a reading lesson that just cotains text.
+This is a reading lesson that just contains text.
 
 There are no:
 - Links here
