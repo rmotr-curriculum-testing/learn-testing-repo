@@ -1,0 +1,2 @@
+def calculator():
+    raise NotImplementedError()
