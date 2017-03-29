@@ -1,4 +1,5 @@
 name = "Reading Only Text"
 type = "reading"
 uuid = "a6bdfc7c-dec3-4495-a966-ff9361ee7711"
+description = "This is a testing description for the reading-only lesson"
 youtube_id = "goiE5Dlobxs"
